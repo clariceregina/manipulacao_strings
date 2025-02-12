@@ -9,3 +9,7 @@ Contém exibição de aspas dentro de uma string (\'), quebra de linha (\n), tab
 ## 2. Raw string
 
 Neste código aplico raw string para imprimir o caminho de um diretório.
+
+## 3. Lower(), islower(), upper() e isupper()
+
+Há conversão de um nome para maiúscula, contador de letras maiúsculas, verificação se o texto está todo escrito em letras minúsculas e correção de frases que não atendam à condição "sem letras maiúsculas".
