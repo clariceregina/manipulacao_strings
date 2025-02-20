@@ -17,3 +17,7 @@ Há conversão de um nome para maiúscula, contador de letras maiúsculas, verif
 ## 4. isX
 
 Manipulo strings utilizando isalpha(), isalnum(), isdecimal(), isspace() e istitle().
+
+## 5. Startswith() e endswith()
+
+Contém verificação se o nome de um arquivo é inserido no formato PDF corretamente, bem como verificação se um site é seguro (iniciado com https).
