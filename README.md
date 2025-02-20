@@ -14,6 +14,6 @@ Neste código aplico raw string para imprimir o caminho de um diretório.
 
 Há conversão de um nome para maiúscula, contador de letras maiúsculas, verificação se o texto está todo escrito em letras minúsculas e correção de frases que não atendam à condição "sem letras maiúsculas".
 
-# 4. isX
+## 4. isX
 
 Manipulo strings utilizando isalpha(), isalnum(), isdecimal(), isspace() e istitle().
