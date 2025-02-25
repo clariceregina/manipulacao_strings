@@ -21,3 +21,7 @@ Manipulo strings utilizando isalpha(), isalnum(), isdecimal(), isspace() e istit
 ## 5. Startswith() e endswith()
 
 Contém verificação se o nome de um arquivo é inserido no formato PDF corretamente, bem como verificação se um site é seguro (iniciado com https).
+
+## 6. Join()
+
+Neste código são solicitadas cinco palavras separadas por espaço, estas são transformadas pelo método join() e na saída estão separadas por vírgula.
